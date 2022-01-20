@@ -1,0 +1,17 @@
+{
+  "name": "scratt",
+  "version": "1.0.0",
+  "description": "discord.js v13 ile basit işlenmiş altyapı",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^10.0.0"
+  }
+}
