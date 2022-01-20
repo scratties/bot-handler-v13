@@ -13,12 +13,12 @@
 ---
 
 ## Issues
-Sayfayla ilgili herhangi bir sorununuz varsa, lütfen [buradan](https://github.com/scratties/bot-handler-v13/issues) yeni bir sayfa oluşturun.
+Sayfayla ilgili herhangi bir sorununuz varsa, lütfen [buradan](https://github.com/scratties/bot-handler-v13/issues) yeni bir istek oluşturun.
 
 ## Pull Requests
 Bir pull request gönderirken:
 - Depoyu klonlayın.
-- Master'dan bir dal oluşturun ve ona anlamlı bir ad girin (örn. my-bot).
+- Master'dan bir dal oluşturun ve ona anlamlı bir ad girin (örn. test-bot).
 - Bir [pull request](https://github.com/scratties/bot-handler-v13/pulls) açın ve [GitHub](https://github.com) üzerinden özelliği tanımlayın veya düzeltin.
 
 ## License
