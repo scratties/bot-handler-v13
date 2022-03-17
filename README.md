@@ -25,4 +25,4 @@ Bir pull request gönderirken:
 Bu proje MIT lisanslıdır. Ayrıntılar için [LICENSE](https://github.com/scratties/bot-handler-v13/blob/main/LICENSE) bakınız.
 
 ## Contact
-- Discord: [@Scratties#6668](https://discord.com/users/569827930440466432)
+- Discord: [@scratties#6668](https://discord.com/users/569827930440466432)
